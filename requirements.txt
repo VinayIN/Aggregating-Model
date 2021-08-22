@@ -1,0 +1,5 @@
+pandas
+matplotlib
+numpy
+tqdm
+sklearn==0.24.2
